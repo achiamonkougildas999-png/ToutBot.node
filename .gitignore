@@ -1,0 +1,6 @@
+node_modules/
+toutbot.db
+toutbot.db-shm
+toutbot.db-wal
+.toutbot_secret
+*.log
